@@ -7,7 +7,7 @@ The lights are rated for 6W and intended for use with a dimmer, but many of them
 ## Driver PCB
 
 Main goal: create schematic from scratch and understand how things work. Ideally fix the broken units.  
-The IC is a `iW3866` by Renesas. It supports leading and trailing edge dimming. The `-01` variant found here supports 230VAC input with up to 14 W output power.  
+The IC is a `iW3688` by Renesas. It supports leading and trailing edge dimming. The `-01` variant found here supports 230VAC input with up to 14 W output power.  
 (https://www.renesas.com/en/document/prb/iw3688-product-summary?r=1543101)
 
 For most defective units the only apparent damage was the blown fusible resistor. All the other simple components seemed fine.  
